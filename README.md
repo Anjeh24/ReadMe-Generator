@@ -109,3 +109,8 @@ You are required to submit the following for review:
 ---
 
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+
+This assignment was about creating an efficient readMe generator. Below is a snapshot  of the end product of the readMe generator.
+
+![image](https://user-images.githubusercontent.com/82301113/125183805-52561400-e1e7-11eb-8365-0dac8509d2db.png)
+
